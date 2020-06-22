@@ -1,2 +1,15 @@
 
 
+
+.header-text-list{
+    text-align:center;
+    font-weight: 600;
+    font-size: 36px
+}
+
+
+.header-text-lists{
+    text-align:left;
+    font-weight: 500;
+    font-size: 25px
+}

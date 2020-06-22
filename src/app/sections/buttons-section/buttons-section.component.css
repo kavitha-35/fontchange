@@ -1,6 +1,22 @@
-.btn-about {
-    color: #fff;
-    border-color: #671099;
-    background-color:#671099;
-    box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08)
+
+
+.para-text{
+    text-align:justify;
+
+    font-weight: 300;
+    font-size:14px
+}
+
+
+.header-text{
+    text-align:center;
+    font-weight: 600;
+    font-size: 36px
+}
+
+
+.header-text-lists{
+    text-align:center;
+    font-weight: 300;
+    font-size: 25px
 }

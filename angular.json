@@ -24,7 +24,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "src/assets/scss/argon.css"
+              "src/assets/scss/argon.scss"
             ],
             "scripts": []
           },
